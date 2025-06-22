@@ -1,16 +1,39 @@
-# cineloop
+# 🎬 Cineloop
 
-A new Flutter project.
+Cineloop is a sleek and modern **movie booking app** built using **Flutter**. It features smooth UI design and integrates **Firebase Authentication** for secure user sign-up and login.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Email/Password Authentication  
+- 🎨 Beautiful and responsive UI  
+- 🧭 Easy navigation and clean layout  
+- 📱 Built with Flutter for cross-platform support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+| Home Screen | Login Screen | Sign-Up Screen |
+|-------------|---------------|----------------|
+| <img src="assets/screenshots/home.png" width="250"/> | <img src="assets/screenshots/login.png" width="250"/> | <img src="assets/screenshots/signup.png" width="250"/> |
+
+---
+
+## 🎥 Demo
+
+[![Watch Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+
+> 🔗 Click the image above to watch the full video demo on YouTube.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** – UI Development  
+- **Dart** – Programming Language  
+- **Firebase Auth** – User Authentication  
+- **Android Studio** – Development IDE
+
+
