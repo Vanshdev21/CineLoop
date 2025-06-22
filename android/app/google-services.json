@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626790036050",
+    "project_id": "cineloop-850e4",
+    "storage_bucket": "cineloop-850e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626790036050:android:c4be89422b46629ad0658b",
+        "android_client_info": {
+          "package_name": "com.example.cineloop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ulV02s0o-ZTaRvnfUQYmJHNeyQFYnko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
