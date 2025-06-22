@@ -17,7 +17,7 @@ Cineloop is a sleek and modern **movie booking app** built using **Flutter**. It
 
 | Home Screen | Login Screen | Sign-Up Screen |
 |-------------|---------------|----------------|
-| <img src="assets/screenshots/home.png" width="250"/> | <img src="assets/screenshots/login.png" width="250"/> | <img src="assets/screenshots/signup.png" width="250"/> |
+| <img src="demo/home.png" width="250"/> | <img src="demo/login.png" width="250"/> | <img src="demo/signup.png" width="250"/> |
 
 ---
 
