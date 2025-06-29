@@ -3,6 +3,8 @@
 Cineloop is a sleek and modern **movie booking app** built using **Flutter**. It features smooth UI design and integrates **Firebase Authentication** for secure user sign-up and login.
 
 ---
+![image alt](https://github.com/Vanshdev21/CineLoop/blob/1576153e617e7e5984895aacb631059754d381b0/Cineloop_Pic.png)
+---
 
 ## 🚀 Features
 
